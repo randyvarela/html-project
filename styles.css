@@ -1,0 +1,57 @@
+body{
+    font-family: 'Droid Sans', arial, serif; 
+}
+
+.menu {
+    margin-top: 20px; 
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(32, 32, 32);
+  }
+
+.icons {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    background-color: rgb(234, 234, 234);
+    overflow:auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+
+td{
+    padding-left: 15px;
+    font-family: 'Droid Sans', arial, serif; 
+}
+
+.columna {
+    float:left;width:33%;
+}
+
+.columna-portfolio {
+    float:left;width:50%;
+    margin-top: 50px;
+}
+
+.text{
+    font-size: 20px;
+    padding: 100px;
+}
+
+.form{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.checks{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(29, 71, 77);
+}
